@@ -1,0 +1,9 @@
+# Scaffold installer files
+Install*zip
+Install*sh
+scaffold_installer_input
+# Working directory
+contents
+# Packages
+*deb
+*rpm

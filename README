@@ -1,0 +1,15 @@
+Scaffold is proprietary software and can not be freely distributed, but
+this project can hopefully help build private packages for local
+use. 
+
+Prerequistes:
+
+Install fpm: https://github.com/jordansissel/fpm
+
+% sudo apt-get install ruby
+% sudo gem install fpm
+
+How to use:
+
+Simply run build.sh. The debian package will be created in this
+directory.
